@@ -7,8 +7,8 @@ _WeChatAutoMsger is a tool of demo version to send wechat msg/sns from other pro
 * Send sns msg from other process.
 
 # Screenshots
-* ![TextMsg](https://github.com/JyerZ/WeChatAutoMsger/blob/master/screenshots/AutoTxtMsger.gif)
-* ![SnsMsg](https://github.com/JyerZ/WeChatAutoMsger/blob/master/screenshots/AutoSns.gif)
+* For text msg preview, please download [AutoTxtMsger.gif](https://github.com/JyerZ/WeChatAutoMsger/blob/master/screenshots/AutoTxtMsger.gif)
+* For sns msg preview, please download [AutoSns.gif](https://github.com/JyerZ/WeChatAutoMsger/blob/master/screenshots/AutoSns.gif)
 
 ## Dependencies
 *  ### Xposed
